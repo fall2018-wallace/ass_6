@@ -24,16 +24,6 @@
             ],
             "source": "clean.R",
             "target": "mergearrests.R"
-        },
-        {
-            "ports": [
-                {
-                    "output": "hist1",
-                    "type": "png"
-                }
-            ],
-            "source": "mergearrests.R",
-            "target": "plot1.png"
         }
     ],
     "nodes": [
@@ -48,11 +38,8 @@
         {
             "desc": "",
             "name": "mergearrests.R"
-        },
-        {
-            "name": "plot1.png"
         }
     ],
-    "updated_at": "2018-10-04 17:13:23",
+    "updated_at": "2018-10-04 17:39:47",
     "url": "https://github.com/fall2018-wallace/ass_6"
 }
