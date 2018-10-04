@@ -30,12 +30,18 @@
             "name": "scprc_est_2017_18_pop_res.csv"
         },
         {
-            "name": "clean.R"
+            "assigned_to": "sim96",
+            "name": "clean.R",
+            "task_status": "in progress"
         },
         {
             "name": "data.csv"
+        },
+        {
+            "desc": "",
+            "name": "mergearrests.R"
         }
     ],
-    "updated_at": "2018-10-04 16:45:55",
+    "updated_at": "2018-10-04 17:08:27",
     "url": "https://github.com/fall2018-wallace/ass_6"
 }
