@@ -8,3 +8,5 @@ readStates=function(states)
     colnames(states)=c("Statename","population","popover18","percentover18")
     return(states)
 }
+
+cleanCensus=readStates(raw_data)
