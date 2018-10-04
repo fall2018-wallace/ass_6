@@ -38,8 +38,11 @@
         {
             "desc": "",
             "name": "mergearrests.R"
+        },
+        {
+            "name": "plot1.png"
         }
     ],
-    "updated_at": "2018-10-04 17:11:07",
+    "updated_at": "2018-10-04 17:12:24",
     "url": "https://github.com/fall2018-wallace/ass_6"
 }
